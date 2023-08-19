@@ -1,0 +1,303 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+        <link href="plan-1.css" rel="Stylesheet">
+        <title>plan-1</title>
+    </head> 
+      
+    <body>
+            
+        <div class="boxes"> 
+                <div id = "leftbox">
+                    <form>
+                        <div class = plan>
+                            <h2>Please select your meal:</h2><br><br>
+                    
+                            <div class="box">
+                                <span class="check"><input type="checkbox" id="breakfast" name="meal" value="breakfast" onclick="checkplan1(); checkplan2(); checkplan3() "></span>
+                                  <b><label for="breakfast">Breakfast</label></b><br><br>
+                                <div class="card">
+                                    <label for="Address">Address:</label><br>
+                                    <input type="text" id="Address" name="Address"><br>
+                                    <label for="State">State:</label><br>
+                                    <select id="State" name="State"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                        <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                        <option value="Assam">Assam</option>
+                                        <option value="Bihar">Bihar</option>
+                                        <option value="Chhattisgarh">Chhattisgarh</option>
+                                        <option value="Puducherry">Puducherry</option>
+                                        <option value="Goa">Goa</option>
+                                        <option value="Gujarat">Gujarat</option>
+                                        <option value="Haryana">Haryana</option>
+                                        <option value="Haryana">Delhi</option>
+                                        <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                        <option value="Jharkhand">Jharkhand</option>
+                                        <option value="Karnataka">Karnataka</option>
+                                        <option value="Kerala">Kerala</option>
+                                        <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                        <option value="Maharashtra">Maharashtra</option>
+                                        <option value="Manipur">Manipur</option>
+                                        <option value="Meghalaya">Meghalaya</option>
+                                        <option value="Mizoram">Mizoram</option>
+                                        <option value="Nagaland">Nagaland</option>
+                                        <option value="Odisha">Odisha</option>
+                                        <option value="Punjab">Punjab</option>
+                                        <option value="Rajasthan">Rajasthan</option>
+                                        <option value="Sikkim">Sikkim</option>
+                                        <option value="Tamil Nadu">Tamil Nadu</option>
+                                        <option value="Telangana">Telangana</option>
+                                        <option value="Tripura">Tripura</option>
+                                        <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                        <option value="Uttarakhand">Uttarakhand</option>
+                                        <option value="West Bengal">West Bengal</option>
+                                    </select>
+                                    <br><br>
+                                    <label for="Pincode">Pincode:</label><br>
+                                    <input type="number" id="Pincode" name="Pincode"><br>
+                                    <label for="Time">Time:</label><br>
+                                    <select id="Time" name="Time"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="7:00AM-7:15AM">7:00AM-7:15AM</option>
+                                        <option value="7:15AM-7:30AM">7:15AM-7:30AM</option>
+                                        <option value="7:30AM-7:45AM">7:30AM-7:45AM</option>
+                                        <option value="7:45AM-8:00AM">7:45AM-8:00AM</option>
+                                        <option value="8:00AM-8:15AM">8:00AM-8:15AM</option>
+                                        <option value="8:15AM-8:30AM">8:15AM-8:30AM</option>
+                                        <option value="8:30AM-8:45AM">8:30AM-8:45AM</option>
+                                        <option value="8:45AM-9:00AM">8:45AM-9:00AM</option>
+                                        <option value="9:00AM-9:15AM">9:00AM-9:15AM</option>
+                                        <option value="9:15AM-9:30AM">9:15AM-9:30AM</option>
+                                    </select>
+                                </div>    
+                            </div>
+                         
+                    
+                    
+                        <hr>
+                        <br>
+                            <div class="box">
+                                 <span class="check"> <input type="checkbox" id="lunch" name="meal" value="lunch" onclick="checkplan1(); checkplan2(); checkplan3() "></span>
+                                 <b><label for="lunch">Lunch</label></b><br><br>
+                                <div class="card">
+                                    <label for="Address">Address:</label><br>
+                                    <input type="text" id="Address" name="Address"><br>
+                                    <label for="State">State:</label><br>
+                                    <select id="State" name="State"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                        <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                        <option value="Assam">Assam</option>
+                                        <option value="Bihar">Bihar</option>
+                                        <option value="Chhattisgarh">Chhattisgarh</option>
+                                        <option value="Puducherry">Puducherry</option>
+                                        <option value="Goa">Goa</option>
+                                        <option value="Gujarat">Gujarat</option>
+                                        <option value="Haryana">Haryana</option>
+                                        <option value="Haryana">Delhi</option>
+                                        <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                        <option value="Jharkhand">Jharkhand</option>
+                                        <option value="Karnataka">Karnataka</option>
+                                        <option value="Kerala">Kerala</option>
+                                        <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                        <option value="Maharashtra">Maharashtra</option>
+                                        <option value="Manipur">Manipur</option>
+                                        <option value="Meghalaya">Meghalaya</option>
+                                        <option value="Mizoram">Mizoram</option>
+                                        <option value="Nagaland">Nagaland</option>
+                                        <option value="Odisha">Odisha</option>
+                                        <option value="Punjab">Punjab</option>
+                                        <option value="Rajasthan">Rajasthan</option>
+                                        <option value="Sikkim">Sikkim</option>
+                                        <option value="Tamil Nadu">Tamil Nadu</option>
+                                        <option value="Telangana">Telangana</option>
+                                        <option value="Tripura">Tripura</option>
+                                        <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                        <option value="Uttarakhand">Uttarakhand</option>
+                                        <option value="West Bengal">West Bengal</option>
+                                    </select><br><br>
+                                    <label for="Pincode">Pincode:</label><br>
+                                    <input type="number" id="Pincode" name="Pincode"><br>
+                                    <label for="Time">Time:</label><br>
+                                    <select id="Time" name="Time"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="12:00PM-12:15PM">12:00PM-12:15PM</option>
+                                        <option value="12:15PM-12:30PM">12:15PM-12:30PM</option>
+                                        <option value="12:30PM-12:45PM">12:30PM-12:45PM</option>
+                                        <option value="12:45PM-1:00PM">12:45PM-1:00PM</option>
+                                        <option value="1:00PM-1:15PM">1:00PM-1:15PM</option>
+                                        <option value="1:15PM-1:30PM">1:15PM-1:30PM</option>
+                                        <option value="1:30PM-1:45PM">1:30PM-1:45PM</option>
+                                        <option value="1:45PM-2:00PM">8:45PM-9:00PM</option>
+                                        <option value="2:00PM-2:15PM">2:00PM-2:15PM</option>
+                                        <option value="2:15PM-2:30PM">2:15PM-2:30PM</option>
+                                    </select>
+                                </div>
+                            </div>
+                    
+                        <hr>
+                        <br>
+                        <div class="box">
+                                <span class="check">  <input type="checkbox" id="Dinner" name="meal" value="Dinner" onclick="checkplan1(); checkplan2(); checkplan3() "></span>
+                                <b><label for="Dinner">Dinner</label></b><br><br>
+                                <div class="card">
+                                    <label for="Address">Address:</label><br>
+                                    <input type="text" id="Address" name="Address"><br>
+                                    <label for="State">State:</label><br>
+                                    <select id="State" name="State"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="Andhra Pradesh">Andhra Pradesh</option>
+                                        <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                                        <option value="Assam">Assam</option>
+                                        <option value="Bihar">Bihar</option>
+                                        <option value="Chhattisgarh">Chhattisgarh</option>
+                                        <option value="Puducherry">Puducherry</option>
+                                        <option value="Goa">Goa</option>
+                                        <option value="Gujarat">Gujarat</option>
+                                        <option value="Haryana">Haryana</option>
+                                        <option value="Haryana">Delhi</option>
+                                        <option value="Himachal Pradesh">Himachal Pradesh</option>
+                                        <option value="Jharkhand">Jharkhand</option>
+                                        <option value="Karnataka">Karnataka</option>
+                                        <option value="Kerala">Kerala</option>
+                                        <option value="Madhya Pradesh">Madhya Pradesh</option>
+                                        <option value="Maharashtra">Maharashtra</option>
+                                        <option value="Manipur">Manipur</option>
+                                        <option value="Meghalaya">Meghalaya</option>
+                                        <option value="Mizoram">Mizoram</option>
+                                        <option value="Nagaland">Nagaland</option>
+                                        <option value="Odisha">Odisha</option>
+                                        <option value="Punjab">Punjab</option>
+                                        <option value="Rajasthan">Rajasthan</option>
+                                        <option value="Sikkim">Sikkim</option>
+                                        <option value="Tamil Nadu">Tamil Nadu</option>
+                                        <option value="Telangana">Telangana</option>
+                                        <option value="Tripura">Tripura</option>
+                                        <option value="Uttar Pradesh">Uttar Pradesh</option>
+                                        <option value="Uttarakhand">Uttarakhand</option>
+                                        <option value="West Bengal">West Bengal</option>
+                                    </select><br><br>
+                                    <label for="Pincode">Pincode:</label><br>
+                                    <input type="number" id="Pincode" name="Pincode"><br>
+                                    <label for="Time">Time:</label><br>
+                                    <select id="Time" name="Time"><br>
+                                        <option value="None">None Selected</option>
+                                        <option value="7:00PM-7:15PM">7:00PM-7:15PM</option>
+                                        <option value="7:15PM-7:30PM">7:15PM-7:30PM</option>
+                                        <option value="7:30PM-7:45PM">7:30PM-7:45PM</option>
+                                        <option value="7:45PM-8:00PM">7:45PM-8:00PM</option>
+                                        <option value="8:00PM-8:15PM">8:00PM-8:15PM</option>
+                                        <option value="8:15PM-8:30PM">8:15PM-8:30PM</option>
+                                        <option value="8:30PM-8:45PM">8:30PM-8:45PM</option>
+                                        <option value="8:45PM-9:00PM">8:45PM-9:00PM</option>
+                                        <option value="9:00PM-9:15PM">9:00PM-9:15PM</option>
+                                        <option value="9:15PM-9:30PM">9:15PM-9:30PM</option>
+                                    </select>
+                                
+                                </div>
+                            </div>
+                        <br>
+                        <div class="button">   <button type="submit" class="payment" >Proceed to payment</button> </div>
+                        
+                        
+                        </div>
+        
+                    </form>
+                </div>
+                </div> 
+             
+            
+              
+            <div id = "rightbox">
+                <div class="details"> 
+                    <h1>PLAN-1</h1>
+                    <br>
+                    <br>
+                    <br>
+                      
+                    <p id="plan1">Rs5000 Per month </p>
+                    <p id="plan2">Rs10000 per month</p>
+                    <p id="plan3">Rs15000 per month</p>
+                    <br>
+                    <p>Select between breakfast,lunch,dinner.</p>
+                    <br>
+                    <p>Select your own custom time within the slot.</p>
+                    <br>
+                    <p>Select your own location.</p>
+                    <br>
+                    <p>Heat Insulation Package</p>
+                    <br>
+
+                    <p>Disposible cutlery included</p>
+                </div> 
+            </div>
+        </div>  
+    </body> 
+    <script>
+        function checkplan1(){
+            var ab=document.getElementById("breakfast");
+            var cd=document.getElementById("lunch");
+            var as=document.getElementById("Dinner");
+            var text1= document.getElementById("plan1");
+            if(ab.checked==true){
+                text1.style.display="block";
+            }
+            else if(cd.checked==true){
+                text1.style.display="block";
+            }
+            else if(as.checked==true){
+                text1.style.display="block";
+            }
+            else{
+                text1.style.display="none";
+            }
+        }
+        function checkplan2(){
+            var qw=document.getElementById("breakfast");
+            var er=document.getElementById("lunch");
+            var ty=document.getElementById("Dinner");
+            var text1= document.getElementById("plan1");
+            var text2= document.getElementById("plan2");
+            if(qw.checked==true && er.check==true){
+                text2.style.display="block";
+                text1.style.display="none";
+                
+            }
+            else if(er.checked==true && ty.check==true )
+            {
+                text2.style.display="block";
+                text1.style.display="none";
+            }
+            else if(qw.check==true && ty.check==true )
+            {
+                text2.style.display="block";
+                text1.style.display="none";
+            }
+            else{
+                text2.style.display="none";
+            }
+
+        }
+
+        function checkplan3(){
+            var zx=document.getElementById("breakfast");
+            var cv=document.getElementById("lunch");
+            var bn=document.getElementById("Dinner");
+            var text3= document.getElementById("plan3");
+            var text1= document.getElementById("plan1");
+            if(zx.checked==true && cv.checked==true && bn.checked==true){
+                text3.style.display="block";
+                text1.style.display="none";
+
+            }
+            else{
+                text3.style.display="none";
+            }
+        }
+    </script>
+</html>             

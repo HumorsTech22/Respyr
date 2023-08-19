@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="6.7in Foldable" />
+        <device id="Nexus 5X" />
+        <device id="_device_class_tablet" />
+        <device id="pixel_6" />
+        <device id="pixel_4a" />
+        <device id="pixel" />
+        <device id="Nexus 6P" />
+        <target>android-33</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55f24a2b-4c71-4116-a84b-a6f3f38390a3" name="Changes" comment="19/07/2023 - up to date" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RWT84XKZROZLS8JJ]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Respyr" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.6.0/8af90d35b111258f964b0f3743a695a8deb574a0/activity-1.6.0-sources.jar!/androidx/activity/ComponentActivity.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AtifSayings/Animatoo/1.0.1/7ad928f77a43e99c18e117f1ec47e13ac89cb8bc/Animatoo-1.0.1-sources.jar!/com/blogspot/atifsoftwares/animatoolib/Animatoo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.saadahmedev.shortintent/shortintent/3.0.0/483cfd65aac163a8811d09a57b0d64f0d2db9e5f/shortintent-3.0.0-sources.jar!/com/saadahmedsoft/shortintent/Anim.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.saadahmedev.shortintent/shortintent/3.0.0/483cfd65aac163a8811d09a57b0d64f0d2db9e5f/shortintent-3.0.0-sources.jar!/com/saadahmedsoft/shortintent/ShortIntent.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-33/android/widget/LinearLayout.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OEGNpliynRF6GBoGKtezmsp7TB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ScreenRecorder.SavePath&quot;: &quot;D:\\device-2023-06-28-124202.mp4&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.MackHartley/RoundedProgressBar/3.0.0/e18a2e97818bba0ca69f4089019c59cacf3139df/RoundedProgressBar-3.0.0-sources.jar!/com/mackhartley/roundedprogressbar/RoundedProgressBar.kt_SELECTED&quot;: &quot;RoundedProgressBar&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/45d3ce505f744a595313d5eb84efd3ca3c8d2d04/MPAndroidChart-v3.1.0-sources.jar!/com/github/mikephil/charting/charts/Chart.java_SELECTED&quot;: &quot;Chart&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.antonKozyriatskyi/CircularProgressIndicator/1.3.0/317015a63262ed9ff7f3df232e5513ce94108260/CircularProgressIndicator-1.3.0-sources.jar!/antonkozyriatskyi/circularprogressindicator/CircularProgressIndicator.java_SELECTED&quot;: &quot;CircularProgressIndicator&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.baoyachi/StepView/1.9/f19f4add5f76af862dd45371dc17a1fecebf43dd/StepView-1.9-sources.jar!/com/baoyachi/stepview/VerticalStepView.java_SELECTED&quot;: &quot;VerticalStepView&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.chinalwb/slidetoconfirm/1.0.2/489131987ff890eff4655f06e34bde7e08795e0/slidetoconfirm-1.0.2-sources.jar!/com/chinalwb/slidetoconfirmlib/SlideToConfirm.java_SELECTED&quot;: &quot;SlideToConfirm&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.darshan-miskin/PinView-Android/v1.1.8/c1a4538f45011ff6c48ef3084c1f132a2f2e0b31/PinView-Android-v1.1.8-sources.jar!/com/gne/www/lib/PinView.java_SELECTED&quot;: &quot;PinView&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/com.github.florent37/singledateandtimepicker/2.2.7/906089d171af5eef898e6f9f78d6ef33e825e3c8/singledateandtimepicker-2.2.7-sources.jar!/com/github/florent37/singledateandtimepicker/SingleDateAndTimePicker.java_SELECTED&quot;: &quot;SingleDateAndTimePicker&quot;,
+    &quot;android-custom-viewC:/Users/porta/.gradle/caches/modules-2/files-2.1/io.github.ShawnLin013/number-picker/2.4.13/63dc3389540008c08fd38308b400905345f3b1ff/number-picker-2.4.13-sources.jar!/com/shawnlin/numberpicker/NumberPicker.java_SELECTED&quot;: &quot;NumberPicker&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/GridView.java_SELECTED&quot;: &quot;GridView&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/ImageButton.java_SELECTED&quot;: &quot;ImageButton&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/ImageView.java_SELECTED&quot;: &quot;ImageView&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/LinearLayout.java_SELECTED&quot;: &quot;LinearLayout&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/NumberPicker.java_SELECTED&quot;: &quot;NumberPicker&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/ProgressBar.java_SELECTED&quot;: &quot;ProgressBar&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/ScrollView.java_SELECTED&quot;: &quot;ScrollView&quot;,
+    &quot;android-custom-viewC:/Users/porta/AppData/Local/Android/Sdk/sources/android-33/android/widget/TextView.java_SELECTED&quot;: &quot;TextView&quot;,
+    &quot;android-custom-viewE:/android/Respyr/app/src/main/java/com/humorstech/respyr/reading/VerticalHalfCircleProgressBar.java_SELECTED&quot;: &quot;VerticalHalfCircleProgressBar&quot;,
+    &quot;android-custom-viewE:/android/Respyr/app/src/main/java/com/humorstech/respyr/reading/VerticalProgressBar.java_SELECTED&quot;: &quot;VerticalProgressBar&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/android/Respyr/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/android/Respyr/app/src/main/res/drawable&quot;,
+    &quot;live.layout.inspector.capturing&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;android-custom-viewE:/android/Respyr/app/src/main/java/com/humorstech/respyr/reading/VerticalHalfCircleProgressBar.java_VerticalHalfCircleProgressBar_DIMENSIONS&quot;: [
+      &quot;1080&quot;,
+      &quot;1920&quot;
+    ]
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1531519650">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.bloodtest" />
+    </key>
+    <key name="android.template.-2078131470">
+      <recent name="com.humorstech.respyr.profile.user" />
+    </key>
+    <key name="android.template.1629410421">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.lifestyle" />
+    </key>
+    <key name="android.template.-1629183212">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.bloodtest" />
+    </key>
+    <key name="android.template.-1445250390">
+      <recent name="com.humorstech.respyr.home.profile" />
+      <recent name="com.humorstech.respyr.home" />
+    </key>
+    <key name="android.template.-870537508">
+      <recent name="com.humorstech.respyr.profile.user" />
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.1629680783">
+      <recent name="com.humorstech.respyr.profile.user" />
+      <recent name="com.humorstech.respyr.profile.history" />
+    </key>
+    <key name="android.template.1419836936">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.285740678">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.1752903287">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.-1363791851">
+      <recent name="com.humorstech.respyr.daily_routin" />
+    </key>
+    <key name="android.template.456678429">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.1340947830">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.-1470881760">
+      <recent name="com.humorstech.respyr.reward" />
+    </key>
+    <key name="android.template.-1083504545">
+      <recent name="com.humorstech.respyr.daily_routin" />
+    </key>
+    <key name="android.template.-1629591706">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.190141881">
+      <recent name="com.humorstech.respyr.profile" />
+    </key>
+    <key name="android.template.487520986">
+      <recent name="com.humorstech.respyr.authentication.login.newuser" />
+      <recent name="com.humorstech.respyr.authentication.login.newuser.bloodtest" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.humorstech.respyr.trends" />
+      <recent name="com.humorstech.respyr.reading" />
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.-1053606186">
+      <recent name="com.humorstech.respyr.authentication.login.newuser" />
+      <recent name="com.humorstech.respyr.authentication.login" />
+    </key>
+    <key name="android.template.-1311876143">
+      <recent name="com.humorstech.respyr.authentication" />
+    </key>
+    <key name="android.template.2087464800">
+      <recent name="com.humorstech.respyr.trends" />
+    </key>
+    <key name="android.template.1451078565">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.1729234699">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.-841900900">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.-1631049455">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.lifestyle" />
+      <recent name="com.humorstech.respyr.authentication.login.newuser" />
+    </key>
+    <key name="android.template.27334148">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.-1884508283">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.-2024358486">
+      <recent name="com.humorstech.respyr.authentication.login.newuser" />
+      <recent name="com.humorstech.respyr.authentication.login" />
+      <recent name="com.humorstech.respyr.authentication" />
+      <recent name="com.humorstech.respyr.authentication.onboard" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.humorstech.respyr" />
+    </key>
+    <key name="android.template.1440810438">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.1094858246">
+      <recent name="com.humorstech.respyr.results" />
+    </key>
+    <key name="android.template.821519169">
+      <recent name="com.humorstech.respyr.notification" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.humorstech.respyr" />
+      <recent name="com.humorstech.respyr.reading" />
+      <recent name="com.humorstech.respyr.utills" />
+      <recent name="com.humorstech.respyr.authentication.login.newuser.lifestyle" />
+    </key>
+    <key name="android.template.579574095">
+      <recent name="com.humorstech.respyr.reward" />
+    </key>
+    <key name="android.template.1923725184">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.-185631374">
+      <recent name="com.humorstech.respyr.authentication.login.newuser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\android\Respyr\app\src\main\res\drawable" />
+      <recent name="E:\android\Respyr\app\src\main\res\raw" />
+      <recent name="E:\android\Respyr\app\src\main\java\com\humorstech\respyr\reading" />
+      <recent name="E:\android\Respyr\app\src\main\res" />
+    </key>
+    <key name="android.template.1248153235">
+      <recent name="com.humorstech.respyr.authentication" />
+      <recent name="com.humorstech.respyr.authentication.login" />
+    </key>
+    <key name="android.template.762379453">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.bloodtest" />
+    </key>
+    <key name="android.template.-1331586430">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+    <key name="android.template.-1861332147">
+      <recent name="com.humorstech.respyr.authentication.login.newuser.bloodtest" />
+    </key>
+    <key name="android.template.-405018492">
+      <recent name="com.humorstech.respyr.authentication.login" />
+      <recent name="com.humorstech.respyr.authentication.login.newuser.lifestyle" />
+    </key>
+    <key name="android.template.-797726291">
+      <recent name="com.humorstech.respyr.reading" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Respyr.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f24a2b-4c71-4116-a84b-a6f3f38390a3" name="Changes" comment="" />
+      <created>1681118292153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681118292153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hi" />
+    <MESSAGE value="19/07/2023 - up to date" />
+    <option name="LAST_COMMIT_MESSAGE" value="19/07/2023 - up to date" />
+  </component>
+</project>

@@ -1,0 +1,147 @@
+
+#leftbox {
+    float:left; 
+    background:#FACE7F;
+    width:50%;
+    height:1500px;
+     @media screen and (max-width:600px){
+       float:none;
+       width:100%;
+       font-size: 12px;
+     }
+}
+#rightbox{
+    float:right;
+    background:#911F27;
+    width:50%;
+    height:1500px;
+    @media screen and(max-width:600px){
+      float:none;
+      width:100%;
+      font-size:12px;
+    }
+}
+h1{
+    
+    text-align:center;
+    font-size: 4rem;
+    color: white;
+    font-family: "Montserrat-Bold", sans-serif;
+}
+p{
+    font-size: 2rem;
+    text-align: right;
+    color: white;
+    font-family: "Montserrat-Bold", sans-serif;
+}
+#plan1{
+  display: none;
+}
+#plan2{
+  display: none;
+}
+#plan3{
+  display: none;
+}
+
+.details{
+    
+    padding: 30% 0 30% 0;
+    text-align: left;
+}
+
+
+label{
+    font-family: "Montserrat-Bold", sans-serif;
+}
+
+#Address{
+    background-color: #fff;
+    width: 90%;
+    
+  }
+  #Pincode{
+    background-color: #fff;
+    width: 90%;
+  }
+  #Time{
+    background-color: #fff;
+    width: 40%;
+    height: 30px;
+  }
+  #State{
+    height:30px;
+    width: 40%;
+  }
+
+  .button{
+    text-align: center;
+  }
+  .box{
+    padding-top: 8px;
+    background-color:#FCF0C8;
+    border-radius:1em ;
+    margin: 10px;
+    
+    }
+  
+  .card {
+    border-radius: 1em;
+    background-color: #630A10;
+    color: #fff;
+    padding: 1em;
+  }
+
+  /* Add padding to containers */
+.container {
+    padding: 0.5px;
+   
+  }
+  
+  span.check{
+    padding-left:10px;
+    
+  }
+
+  
+
+  
+  
+  .payment {
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px 5px;
+    margin-right: auto;
+    margin-left: auto;
+    border:2px solid #000;
+    border-radius: 12px;
+    cursor: pointer;
+    width : 40%;
+    opacity: 0.75;
+    height: 50px;
+    font-size: 1.2rem;
+  
+  
+    
+  }
+  .payment:hover {
+    opacity: 1;
+  }
+  
+  /* Full-width input fields */
+  input[type=text],input[type=number],input[type=time],input[type=select]{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 8px;
+    background: rgba(231, 186, 186, 0.425);
+    
+  }
+  
+  
+  p{
+    text-align:center;
+  }
+  

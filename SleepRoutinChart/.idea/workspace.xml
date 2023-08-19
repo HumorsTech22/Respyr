@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9992d01d-719f-40bb-8c6f-3165c7e1e3b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/m/sleeproutinchart/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/m/sleeproutinchart/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/m/sleeproutinchart/RoundedBarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bar_background_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/m/sleeproutinchart/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/androidTest/java/com/humorstech/respyr/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/BottomNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/Dialogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/HTTP_URLS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/HeroBannerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/HeroBannerImageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/NetworkChangeReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/PersonalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/StatusBarColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/TabEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/TabUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/InfinitePagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/ProgressDots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/SliderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/AddNewProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/ExistingUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/OtpVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/SelectProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/Height.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/NewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/ProfileSucess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/BloodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Condtions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Diabetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/HealthScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Kidney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Lipid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Liver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/bloodtest/Lungs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/CustomeSpinner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/Hobbies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/LifeStyleScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/MentalConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/SleepHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/authentication/login/newuser/lifestyle/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/DailyRoutinForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/SearchMeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/added/AddedFoodAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/added/AddedFoodAdapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/added/AddedFoodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/frequently/FrequentlyFoodAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/frequently/FrequentlyFoodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/search/FoodDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/search/SearchFoodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/search/SearchFoodDataAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/daily_routin/search/SelectFoodSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/home/CustomBarRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/home/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/home/RoundedBarChartRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/notification/AlertDataAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/notification/AlertDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/notification/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/notification/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/notification/Promotional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/preferences/HabitsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/preferences/SaveProfileId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/history/BloodReportHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/history/BloodReportHistoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/history/BloodReportHistoryDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/history/DeleteReportBottomSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/history/ViewBloodReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/user/DatePickerSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/user/PersonalInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/user/ProfileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/profile/user/SelectProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Analyzing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/BMIAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/BeforeReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/BloodPressure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/BlowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/BlowScoreAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/CaloriesAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/CheckList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/CustomMarkerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/DeviceReady.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/DiabeticAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Expand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/GridAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/HealthScoreAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/LifeStyleAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/BandPassTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/BandStopTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Bessel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Biquad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/BiquadPoleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Butterworth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Cascade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/ComplexPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/ConcurrencyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/DirectFormAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/DirectFormI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/DirectFormII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/DoubleFft1d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Fft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Fft2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/HighPassTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/LayoutBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/LowPassTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/MathSupplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/PoleZeroPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Math/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/ProfileItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/ReadingHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/ReferenceSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/SelectProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/SelectUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Suggestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/Tempdashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/UsbService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/UserForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/VerticalHalfCircleProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/VerticalProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/VitalAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/WorkoutSliderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/WorkoutSliderDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakUP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupCalories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupCarboHydrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupFats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupFibre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupPageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reading/food_breakup/FoodBreakupProtein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/results/DetailedLifeStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/AllTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/LockedTaskAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/LockedTaskDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/Reward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/RewardCardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/RewardCardModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/reward/RewardsSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/utills/BottomBarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/utills/IntentUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/humorstech/respyr/utills/ProfileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/anim/slide_in_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/anim/slide_out_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/color/alcohol_button_tint1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/acheivement.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/aclohol.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/add1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/add2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/add_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/alcoho_yes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/alcohol_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/alcohol_button_tint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/alcohol_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/alcohol_no.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/anal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/analysing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/analyzing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/arrow_down.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/arrow_pagination.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/arrow_right1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/av_sm1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/avocado_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/avocado_ic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/badge_poor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/balloons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/banner_bg_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bell.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_dropdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_gender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_gender1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_gender_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_shape_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/blood_test_card_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/blood_test_card_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bloodhistorycard_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/blow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/blow_now.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/blow_now_animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_home_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_journal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_journal_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_premium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_premium_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_reading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_reading_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_rewards.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bm_rewards_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi_graph_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi_suggetion_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bmi_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/border_1dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/border_2dp_primary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bottom_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bottom_sheet_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_cancel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_change_av.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_lg_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_lg_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_not_found.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_outline_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_outline_lg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_outline_primary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_outline_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_primary_lg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_resulr_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_save_disabled.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_small_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/button_small_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/cal_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/calibrating.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/calories_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/calories_data_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/calories_ic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/calories_progress_drawable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/carbs_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/carbs_ic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/card_active_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/card_inactive_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/cardio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/check.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/check_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/check_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/check_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/check_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/checkbox1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/checkbox_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/checkbox_checked1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/checkbox_in_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/checkbox_unchecked1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/chk6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/circle_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/clock_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/close.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/conditions_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/connected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/contact.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/country_code_picker_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/data_input_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/data_point.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/data_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/decreasing_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/delete_lg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/delete_report_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/device_connected_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/device_not_connected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/device_not_connected_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/dia_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/diabetic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/diabetic_badge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/diabetic_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/diabetic_progress_drawable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/disease_card_shape_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/disease_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/disease_tab.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/eclips1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/edit1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/edit2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/edit3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/edit4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/email_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/exc_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/fibre_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/fibre_ic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/finger.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_bg_not_found.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_cat1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_cat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_cat3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_cat4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_image_not_found.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/food_timing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/gender_active_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/gender_inactive_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/gender_tab.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/glass1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/glass2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/glass3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/glass_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/glass_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/graph_bg_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/happy_face.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/health_score_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/health_score_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/health_score_icon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/health_score_illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/health_score_others_progress_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/heart_vital.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/height_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/height_type_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/height_type_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/height_type_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/height_type_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/help.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/help2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hero_banner_img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hobbies_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hobbies_ic_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hobbies_ic_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hobbies_ic_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hobbies_ic_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/hold_device.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/holding_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/holding_phone1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_age1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_blow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_bmi1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_calender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_date_of_birth1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_female.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_gender1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_health_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_height1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_locked.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_locked2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_male.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_next.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_nutrition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_user1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_water1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_weight1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/image_selected_food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/important.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/increasing_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/india.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/indicator_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/indicator_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/indicator_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/info_sm1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/inhale.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/inser_mouth_piece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/kidney.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/lifestyle_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/lifestyle_illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/lifestyle_illustration2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/lipid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/liver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/login_edit_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/logout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/logp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/lungs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/mental_condition_bg_in_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/minus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/moon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/morning.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/multiple_account_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/multple_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/name_bg_gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/name_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/nav_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/not_connected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/notification_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/nutri.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/nutrition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/nutrition_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/otp_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/premium_button1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/premium_sm1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_av1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_av2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_bg_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_brain.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_drop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_heart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_plus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_sleep.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_data_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_edit_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_header_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_premium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profile_sucess_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/progress_drawable_vertical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/protein_dark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/protein_ic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/pushup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/pushup2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ractangel_rad25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/radio_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/radio_alcohol.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/radio_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reactangel_rad20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reactangle_outline_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/rectange_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/rectange_rad15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/rectangle_15rad.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/rectangle_rad10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/remove_finger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/respyr_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_calories_button_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_card_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_message_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_page_section_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/result_page_section_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_expired.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_expiring_soon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_icon_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_icon_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reward_plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ripple_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/round_help.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/routin_header_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/running.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/running_ext_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/running_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/seekbar_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/select_profile1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/select_profile2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sleep_seekbar_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sleeping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sleeping1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sleeping_thumb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/slide_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/spiiner_arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_active1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_inactive2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_lg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_lg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_rating_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/start_rating_bg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/streak.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/success_image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/success_image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/success_image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sucess1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sucess_badge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/suggestion_stroke_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/sun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/swipe_up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_active_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_inactive_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_outline_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/tab_outline_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/take_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/take_test_lg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/toolbar_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/uncheck_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/user3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/user_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/users1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/vital_sm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/wave.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/welcome_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/welcome_indicator_selected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/welcome_indicator_unselected.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/yoga.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/mulish.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/mulish_bold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/mulish_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/mulish_semibold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/poppins_bold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/poppins_medium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/poppins_semibold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/roboto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/roboto_bold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/roboto_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/font/roboto_medium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout-mdpi/activity_detailed_life_style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout-mdpi/activity_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout-xhdpi/activity_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout-xxxhdpi/activity_detailed_life_style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout-xxxhdpi/activity_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_add_new_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_age.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_all_tasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_analyzing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_before_reading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_blood_pressure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_blood_report_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_blood_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_blow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_bmi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_check_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_condtions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_daily_routin_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_detailed_life_style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_device_ready.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_diabetic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_existing_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_expand.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_food_break_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_gender.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_health_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_height.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_hobbies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_kidney.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_life_style_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_lipid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_liver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_lungs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_mental_conditions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_name.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_new_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_otp_verification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_persnoal_information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_profile_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_profile_sucess.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_reading_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_reward.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_search_meal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_select_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_select_profile2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_select_profile3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_select_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_sleep_hours.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_suggestion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_tempdashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_test2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_user_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_view_blood_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_water.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_weight.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_welcome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/added_food_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/added_foot_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/added_meals.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/alcohol_intake.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/alert_notification_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/appbar_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/banner_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/banner_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/banner_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/blood_report_history_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/bmi_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/calories_page_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/calories_spinner_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/colories_page_corvohydrate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/colories_page_fats.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/colories_page_fiber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/colories_page_protein.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/colories_spinner_dropdown_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/completed_task_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/custom_marker_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/custom_tab_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/dailog_reading1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_exercise.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_nutrition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_routin_select_food.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_skip_any_meal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_sleep.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_sleep_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/daily_smoking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/dashboard_page_health_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/date_picker_dailog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/delete_blood_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/expand_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/feature_locked.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/food_breakup_content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/food_breakup_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/food_catogories_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/food_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/food_suggestion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_alerts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_food_breakup_calories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_food_breakup_carbo_hydrate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_food_breakup_fats.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_food_breakup_fibre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_food_breakup_protein.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_promotional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/frequently_added_food_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/frequently_food_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/grid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/grid_tem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/habits_streak_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/health_score_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/indicator_preview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/locked_task_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/profile_active.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/profile_card2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/profile_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/profile_inactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/profile_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/progress_loading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_blow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_bmi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_calories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_calories_trend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_diabetes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_health_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_lifestyle_score.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_nutrition_analysis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_suggestion_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/result_page_vital.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/reward_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/rewards_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/rewards_list_bottomsheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/routin_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/search_food_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/sheet_reference.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/suggestion_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/suggestion_page_others.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/suggestion_page_workout_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/suggestion_page_workouts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/suggestions_mini.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/task_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/task_card2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_create_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_create_progress2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_create_progress3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_create_progress4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_create_progress5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/user_profile_dots.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/water_intake_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/water_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/welcome_slider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/work_out_mini_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/blow2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/blow_now_animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/calibrating.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/inhale.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/place_cap.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/raw/success.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/array.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/refs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/test/java/com/humorstech/respyr/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RWT84XKZROZLS8JJ]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RkJfCepGuL9RWYWr73PlTTbahy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.m.sleeproutinchart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="SleepRoutinChart.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9992d01d-719f-40bb-8c6f-3165c7e1e3b9" name="Changes" comment="" />
+      <created>1687788249795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687788249795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

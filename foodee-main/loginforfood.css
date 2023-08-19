@@ -1,0 +1,173 @@
+:root {
+    font-size: 100%;
+    font-size: 16px;
+    line-height: 1.5;
+    --primary-blue: #233975;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+h1 {
+    color: white;
+    text-decoration: dotted;
+    font-size: 5.25rem;
+    font-weight: 700;
+    margin-bottom: 32%;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-blue);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.small {
+    font-size: 80%;
+    text-align: center;
+}
+
+.split-screen {
+    display: flex;
+    flex-direction: column;
+}
+
+.left {
+    height: 200px;
+    width: 150px;
+    justify-content: center;
+}
+
+.left,
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    background: url(login.jpg) no-repeat center;
+    background-size: 721px;
+    background-position: 0px -224px;
+}
+
+.right .copy {
+    color: white;
+    text-align: center;
+}
+
+.left p {
+    font-weight: 400;
+}
+
+.left .copy {
+    color: black;
+    text-align: center;
+}
+
+.right .copy p {
+    margin: 1.5em 0;
+    font-size: 0.875rem;
+}
+
+.right form {
+    width: 320px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"] {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 1em;
+    margin-bottom: 1.25rem;
+    font-size: 0.875rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
+
+.signup-btn {
+    display: block;
+    width: 100%;
+    background-color: var(--primary-blue);
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.right {
+    background-color: #f2e9e4;
+}
+
+.signup-btn:hover {
+    cursor: pointer;
+    background-color: #3956a7;
+}
+
+.signup-btn:active {
+    cursor: pointer;
+    background-color: forestgreen;
+}
+
+a.next {
+    color: rgb(163, 163, 163);
+    transition: all 0.2s linear;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+a.next:hover {
+    text-decoration: solid underline red;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+a.next:active {
+    color: rgb(0, 175, 233);
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+span.red {
+    color: red;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+@media screen and (min-width:900px) {
+    .split-screen {
+        flex-direction: row;
+        height: 100vh;
+    }
+    .left,
+    .right {
+        display: flex;
+        width: 50%;
+        height: auto;
+    }
+}
